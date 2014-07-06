@@ -5,7 +5,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 	images
 	leonidas.jpg
 www.fuckencio.com
-
+ftp no es un sistema de versiones
 SISTEMA DE CONTROL DE VERSIONES 
 
 SVN: Subversion / Mercurial / TFS / CVS / GIT
